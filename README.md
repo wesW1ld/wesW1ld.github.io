@@ -1,2 +1,2 @@
-Code for my fortfolio, originally being made for my english class
-web2
+Code for my portfolio, originally being made for my english class
+website
